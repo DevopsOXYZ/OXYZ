@@ -14,6 +14,7 @@ Our core features include:
 - Trained routers are provided out of the box, which we have shown to **reduce costs by up to 85%** while maintaining **95% GPT-4 performance** on widely-used benchmarks like MT Bench.
 - Benchmarks also demonstrate that these routers achieve the same performance as commercial offerings while being **>40% cheaper**. 
 - Easily extend the framework to include new routers and compare the performance of routers across multiple benchmarks.
+- Our base oracle memory is stored in basic airtables. You can check it here https://airtable.com/invite/l?inviteId=invSCgvB34v6oxPix&inviteToken=c23f899caca9b5d338c630086524fcc756146319c173a60798c5da582ddd166f&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
 
 ## Installation
 
